@@ -1,6 +1,8 @@
-Password Audit Simulation Project - IT Infrastructure and Auditing
+Password Audit Simulation Project - IT Auditing and Cybersecurity Analytics
 
-This course project involves a comprehensive password audit simulation aimed at evaluating digital identity management systems against NIST Special Publication 800-63B guidelines. It focuses on two case studies: the Superior Scheduling Home Page and Ashley Madison.
+This project simulates a Web Access Logs Audit for Superior Schedules, aimed at demonstrating my knowledge and understanding of auditing and analytics. The assignment involved conducting a mock audit to evaluate potential probing activities and indicators of compromise within the company's web access logs.
+
+Through this simulation, I analyzed various web access patterns and identified vulnerabilities, particularly focusing on known threats such as AndroxGh0st and SYSTEMBC. The findings highlight critical insights into the security posture of the organization and underscore the importance of proactive measures to protect against sophisticated attacks.
 
 Key Features:
 
